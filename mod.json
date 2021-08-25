@@ -1,0 +1,12 @@
+{
+	"name": "organix",
+
+	"displayName": "[scarlet]OrganiX",
+
+	"author": "piksqu",
+  "hidden": true,
+	"description": "organic texture pack",
+
+	"version": "1.0"
+	"minGameVersion": 105
+}
